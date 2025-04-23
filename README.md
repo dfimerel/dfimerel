@@ -1,6 +1,6 @@
 
 <h1 style="font-weight:normal" align="center">
-  &nbsp;Hi there, I'm Danai! <br> Unlocking cancer secrets, one cell at a time :wave:&nbsp;
+  &nbsp;Hi there, I'm Danai! <br>  :wave:&nbsp;
 </h1>
 
 <div align="center">
@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/danaifimereli/"><img border="0" alt="LinkedIn" src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
 
 
-I'm a data scientist / computational biologist working on genomic and (single-cell/spatial) transcriptomics to understand cancer. When I'm not exploring the fascinating world of data science and biology, you can find me catching flights, analyzing aviation data, or cheering on the court, applying data science insights to the game!
+I'm a data scientist with a bioinformatics background, passionate about making sense of complex data and turning it into clear, compelling visuals. When I'm not deep in code, you'll find me catching flights, geeking out over aviation data, or bringing data science to the basketball court.
 
 --- 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
